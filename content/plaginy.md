@@ -26,7 +26,7 @@ SkinsRestorer - [https://modrinth.com/plugin/skinsrestorer](https://modrinth.com
 {% column %}
 Позволяет поставить скин
 
-Использование - /skin set <прямая ссылка>&#x20;
+Использование - /skin set <прямая ссылка картинку>&#x20;
 
 
 {% endcolumn %}
