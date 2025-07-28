@@ -4,6 +4,16 @@
 
 {% columns %}
 {% column %}
+Double Doors
+{% endcolumn %}
+
+{% column %}
+Позволяет открывать двойные двери и люки над ними
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
 Stonecutter Damage - [https://modrinth.com/datapack/stonecutter-damage](https://modrinth.com/datapack/stonecutter-damage)
 {% endcolumn %}
 
